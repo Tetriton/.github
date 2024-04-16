@@ -4,9 +4,9 @@
 
 | 순위 | 테트리스 서열 | 
 | --- | --- | 
-| 1 | [홍지환](https://github.com/flareseek)  | 
+| 1 | [임정욱](https://github.com/yju0808)  | 
 | 2 | [박지영](https://github.com/Mule129), [이지혜](https://github.com/mouiye), [최원영](https://github.com/castberry10) | 
-| 5 | [임정욱](https://github.com/yju0808) | 
+| 5 | [홍지환](https://github.com/flareseek) | 
 
 2, 3, 4위 결정전 곧 합시다 
 
