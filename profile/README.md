@@ -10,6 +10,12 @@
 
 2, 3, 4위 결정전 곧 합시다 
 
+| 순위 | 트리키타워 서열 | 
+| --- | --- | 
+| 1 | [홍지환](https://github.com/flareseek), [박지영](https://github.com/Mule129), [이지혜](https://github.com/mouiye), [최원영](https://github.com/castberry10), [임정욱](https://github.com/yju0808)  | 
+| 2 |  | 
+| 5 | | 
+
 <!--
 
 **Here are some ideas to get you started:**
