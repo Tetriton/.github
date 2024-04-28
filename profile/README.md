@@ -1,20 +1,19 @@
-## Hi there 👋
+## This Organization is Tetriton Team's repos
 
 ### 테트리스 서열 
 
 | 순위 | 테트리스 서열 | 
 | --- | --- | 
-| 1 | [임정욱](https://github.com/yju0808)  | 
-| 2 | [박지영](https://github.com/Mule129), [홍지환](https://github.com/flareseek), [최원영](https://github.com/castberry10) | 
-| 5 | [이지혜](https://github.com/mouiye) | 
-
-2, 3, 4위 결정전 곧 합시다 
+| 1 | [홍지환](https://github.com/flareseek) |
+| 2 | [이지혜](https://github.com/mouiye) |  
+| 3 | [박지영](https://github.com/Mule129), [최원영](https://github.com/castberry10) | 
+| 5 | [임정욱](https://github.com/yju0808) |
 
 | 순위 | 트리키타워 서열 | 
 | --- | --- | 
-| 1 | [홍지환](https://github.com/flareseek), [박지영](https://github.com/Mule129), [이지혜](https://github.com/mouiye), [최원영](https://github.com/castberry10), [임정욱](https://github.com/yju0808)  | 
-| 2 | (미정) | 
-| 5 | (미정) | 
+| 1 | [박지영](https://github.com/Mule129), [최원영](https://github.com/castberry10)  | 
+| 2 | [이지혜](https://github.com/mouiye), [홍지환](https://github.com/flareseek) | 
+| 5 | [임정욱](https://github.com/yju0808) | 
 
 <!--
 
